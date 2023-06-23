@@ -20,11 +20,11 @@ Estou interessado no desenvolvimento em JavaScript como TypeScript, React.js, Re
 
  ## 📚 Habilidades / Skills
  
-<div>
+
 - **Linguagens e Frameworks**: JavaScript, TypeScript, Node.js, Mongoose, Express, React, React Native, PHP, Shell Script;
 - **OS e Plataformas**: Linux, Docker, AZURE, AWS, Git, Github;
 - **DBMS**: MongoDB, MySQL;
-</div>
+
 
 
 ## 📈 Github Status
