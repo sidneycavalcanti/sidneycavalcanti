@@ -20,10 +20,10 @@ Estou interessado no desenvolvimento em JavaScript como TypeScript, React.js, Re
 ## 📈 Github Status
 
 <div>
-<a href="https://github.com/sidneycavalcanti">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?sidneycavalcanti&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?sidneycavalcanti&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-<di>
+  <a href="https://github.com/sidneycavalcanti">
+    <img src = "https://github-readme-stats.vercel.app/api?username=sidneycavalcanti&theme=dark">
+    <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=sidneycavalcanti&theme=dark">
+<div>
 
  ### 📚 Habilidades / Skills
  
