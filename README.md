@@ -25,7 +25,7 @@ Estou interessado no desenvolvimento em JavaScript como TypeScript, React.js, Re
     <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=sidneycavalcanti&theme=dark">
 <div>
 
- ### 📚 Habilidades / Skills
+ ## 📚 Habilidades / Skills
  
 <div>
 - **Linguagens e Frameworks**: JavaScript, TypeScript, Node.js, Mongoose, Express, React, React Native, PHP, Shell Script;
