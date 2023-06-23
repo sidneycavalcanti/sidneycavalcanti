@@ -17,13 +17,6 @@ Estou interessado no desenvolvimento em JavaScript como TypeScript, React.js, Re
 - 💻 [Github](https://github.com/sidneycavalcanti)
 - 📄 [LinkedIn](https://www.linkedin.com/in/sidney-cavalcanti/)
 
-## 📈 Github Status
-
-<div>
-  <a href="https://github.com/sidneycavalcanti">
-    <img src = "https://github-readme-stats.vercel.app/api?username=sidneycavalcanti&theme=dark">
-    <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=sidneycavalcanti&theme=dark">
-<div>
 
  ## 📚 Habilidades / Skills
  
@@ -32,3 +25,12 @@ Estou interessado no desenvolvimento em JavaScript como TypeScript, React.js, Re
 - **OS e Plataformas**: Linux, Docker, AZURE, AWS, Git, Github;
 - **DBMS**: MongoDB, MySQL;
 </div>
+
+
+## 📈 Github Status
+
+<div>
+  <a href="https://github.com/sidneycavalcanti">
+    <img src = "https://github-readme-stats.vercel.app/api?username=sidneycavalcanti&theme=dark">
+    <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=sidneycavalcanti&theme=dark">
+<div>
